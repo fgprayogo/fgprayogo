@@ -6,11 +6,11 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fgprayogo" alt="fgprayogo" /></a> </p>  
   
-- 🔭 I’m currently working on PT. Meteor Inovasi Digital **Developing A Metaverse Project**  
+- 🔭 I’m currently looking for a new job
   
 - 🌱 I’m currently learning **Blockchain Tech**  
   
-- 👯 I’m looking to collaborate on **Blockchain Project**  
+- 👯 I’m looking to collaborate on **Blockchain Project**  or Other interesting project.
   
 - 📫 How to reach me : **fitrohgalih@gmail.com**  
   
